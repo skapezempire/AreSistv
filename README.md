@@ -1,2 +1,2 @@
 # AreSistv
-Project for an assistive digital world
+Project for an inclusive digital world
